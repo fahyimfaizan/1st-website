@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+    font-size: 55px; 
+}
+.name-style{
+    color: darkorange;
+}
+.pera{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.pera img{
+    width: 70%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,skyblue,blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.next-area{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.box{
+    box-shadow: 10px 12px 40px ;
+    border-radius: 10px;
+    height: 60%;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    color: 
+}
+#first{
+    border-left: 8px solid;
+    border-image:linear-gradient(180deg,palegreen, green);
+    border-image-slice: 1;
+}
+#second{
+    border-left: 8px solid;
+    border-image:linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
